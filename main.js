@@ -1,0 +1,1 @@
+const initialValue = 2;
